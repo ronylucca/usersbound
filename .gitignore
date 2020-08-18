@@ -105,10 +105,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-
-# node modules
-node_modules/
-
 # do not include webpack stats
 webpack-stats.dev.json
 webpack-stats.prod.json
